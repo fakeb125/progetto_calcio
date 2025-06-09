@@ -1,0 +1,16 @@
+team1,team2,played,win1,draws,win2,goal1,goal2
+Arsenal,Chelsea,66,27,19,20,94,86
+Arsenal,Liverpool,66,18,23,25,85,113
+Arsenal,Manchester City,56,25,12,19,81,74
+Arsenal,Manchester United,66,21,19,26,77,89
+Arsenal,Tottenham Hotspur,66,27,24,15,108,82
+Chelsea,Liverpool,66,22,19,25,79,84
+Chelsea,Manchester City,56,27,9,20,77,64
+Chelsea,Manchester United,66,20,27,19,82,85
+Chelsea,Tottenham Hotspur,66,37,21,8,121,63
+Liverpool,Manchester City,56,23,21,12,86,74
+Liverpool,Manchester United,66,20,17,29,91,85
+Liverpool,Tottenham Hotspur,66,34,17,15,125,81
+Manchester City,Manchester United,56,20,10,26,81,79
+Manchester City,Tottenham Hotspur,56,19,8,29,80,81
+Manchester United,Tottenham Hotspur,66,39,14,13,110,69

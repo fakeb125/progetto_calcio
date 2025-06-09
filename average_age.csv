@@ -1,0 +1,647 @@
+Stagione,Squadra,Rosa,Impiegati,Average_age,Anno
+1992/93,Tottenham Hotspur,35,31,24.6,1992
+1992/93,Crystal Palace,29,24,24.9,1992
+1992/93,Nottingham Forest,25,23,25.1,1992
+1992/93,Oldham Athletic,27,24,25.6,1992
+1992/93,FC Liverpool,31,25,25.7,1992
+1992/93,Wimbledon FC (- 2004),32,28,25.7,1992
+1992/93,Blackburn Rovers,28,25,25.9,1992
+1992/93,FC Southampton,26,25,26.0,1992
+1992/93,Sheffield United,27,25,26.0,1992
+1992/93,Chelsea FC,35,32,26.0,1992
+1992/93,Norwich City,24,21,26.1,1992
+1992/93,Manchester City,24,23,26.1,1992
+1992/93,Coventry City,31,30,26.1,1992
+1992/93,FC Arsenal,32,29,26.2,1992
+1992/93,FC Middlesbrough,27,26,26.3,1992
+1992/93,Manchester United,36,20,26.5,1992
+1992/93,Queens Park Rangers,28,23,26.6,1992
+1992/93,Aston Villa,29,23,26.6,1992
+1992/93,Leeds United,32,30,26.9,1992
+1992/93,Ipswich Town,25,22,27.4,1992
+1992/93,Sheffield Wednesday,29,26,27.5,1992
+1992/93,FC Everton,27,26,27.7,1992
+1993/94,Tottenham Hotspur,37,30,25.0,1993
+1993/94,Blackburn Rovers,26,22,25.3,1993
+1993/94,Chelsea FC,35,25,25.6,1993
+1993/94,Newcastle United,33,27,25.7,1993
+1993/94,Manchester City,36,32,25.8,1993
+1993/94,Leeds United,30,25,25.9,1993
+1993/94,Coventry City,31,27,25.9,1993
+1993/94,Oldham Athletic,29,28,26.3,1993
+1993/94,Sheffield United,32,28,26.3,1993
+1993/94,FC Liverpool,30,26,26.4,1993
+1993/94,Sheffield Wednesday,31,27,26.5,1993
+1993/94,Wimbledon FC (- 2004),33,25,26.5,1993
+1993/94,FC Southampton,33,31,26.7,1993
+1993/94,Norwich City,29,24,26.8,1993
+1993/94,Manchester United,32,23,27.0,1993
+1993/94,Queens Park Rangers,26,22,27.1,1993
+1993/94,Aston Villa,26,25,27.2,1993
+1993/94,Swindon Town,30,26,27.2,1993
+1993/94,FC Arsenal,26,23,27.3,1993
+1993/94,FC Everton,31,22,27.5,1993
+1993/94,Ipswich Town,28,21,27.7,1993
+1993/94,West Ham United,35,26,27.9,1993
+1994/95,Crystal Palace,27,25,25.2,1994
+1994/95,FC Liverpool,29,21,25.4,1994
+1994/95,FC Southampton,31,26,25.4,1994
+1994/95,Nottingham Forest,28,20,25.4,1994
+1994/95,Blackburn Rovers,28,21,25.5,1994
+1994/95,Norwich City,37,26,25.5,1994
+1994/95,Tottenham Hotspur,31,24,26.0,1994
+1994/95,Leicester City,33,30,26.1,1994
+1994/95,Newcastle United,30,22,26.1,1994
+1994/95,Chelsea FC,31,24,26.2,1994
+1994/95,Manchester United,33,24,26.3,1994
+1994/95,Wimbledon FC (- 2004),37,26,26.7,1994
+1994/95,Sheffield Wednesday,30,24,26.7,1994
+1994/95,Manchester City,33,27,26.7,1994
+1994/95,Queens Park Rangers,27,23,26.7,1994
+1994/95,Leeds United,30,21,26.8,1994
+1994/95,FC Everton,32,26,26.9,1994
+1994/95,Aston Villa,28,26,27.3,1994
+1994/95,Coventry City,32,29,27.4,1994
+1994/95,FC Arsenal,33,30,27.5,1994
+1994/95,West Ham United,32,26,27.8,1994
+1994/95,Ipswich Town,37,33,27.9,1994
+1995/96,Manchester United,28,23,25.1,1995
+1995/96,Aston Villa,30,24,25.1,1995
+1995/96,Nottingham Forest,31,22,25.8,1995
+1995/96,FC Liverpool,28,19,25.8,1995
+1995/96,Manchester City,41,27,25.8,1995
+1995/96,FC Middlesbrough,33,30,25.9,1995
+1995/96,FC Southampton,29,25,25.9,1995
+1995/96,Queens Park Rangers,31,27,26.0,1995
+1995/96,Blackburn Rovers,34,26,26.4,1995
+1995/96,Leeds United,35,31,26.7,1995
+1995/96,Newcastle United,31,22,26.8,1995
+1995/96,Bolton Wanderers,35,28,26.9,1995
+1995/96,Wimbledon FC (- 2004),46,30,26.9,1995
+1995/96,Coventry City,38,26,27.1,1995
+1995/96,Tottenham Hotspur,44,23,27.2,1995
+1995/96,Chelsea FC,31,25,27.3,1995
+1995/96,FC Everton,34,24,27.5,1995
+1995/96,Sheffield Wednesday,43,28,27.7,1995
+1995/96,West Ham United,38,32,28.0,1995
+1995/96,FC Arsenal,31,25,28.4,1995
+1996/97,Aston Villa,26,21,25.2,1996
+1996/97,Manchester United,32,23,25.6,1996
+1996/97,FC Southampton,34,31,25.7,1996
+1996/97,FC Liverpool,27,23,26.0,1996
+1996/97,FC Middlesbrough,34,30,26.0,1996
+1996/97,Derby County,31,26,26.1,1996
+1996/97,Leicester City,31,24,26.3,1996
+1996/97,Sheffield Wednesday,25,24,26.5,1996
+1996/97,Leeds United,33,30,26.5,1996
+1996/97,FC Everton,29,26,26.7,1996
+1996/97,Wimbledon FC (- 2004),26,24,26.7,1996
+1996/97,Tottenham Hotspur,33,26,26.7,1996
+1996/97,Blackburn Rovers,28,25,26.8,1996
+1996/97,Newcastle United,24,20,27.1,1996
+1996/97,Nottingham Forest,33,29,27.6,1996
+1996/97,West Ham United,35,30,27.6,1996
+1996/97,AFC Sunderland,30,25,27.7,1996
+1996/97,Chelsea FC,32,31,27.8,1996
+1996/97,Coventry City,33,25,27.8,1996
+1996/97,FC Arsenal,32,28,28.6,1996
+1997/98,FC Liverpool,33,24,25.2,1997
+1997/98,Crystal Palace,42,36,25.3,1997
+1997/98,West Ham United,38,29,25.3,1997
+1997/98,Derby County,31,28,25.3,1997
+1997/98,FC Everton,36,34,25.4,1997
+1997/98,Leeds United,37,22,25.4,1997
+1997/98,Aston Villa,32,22,25.6,1997
+1997/98,Manchester United,35,29,26.1,1997
+1997/98,Barnsley FC,28,27,26.2,1997
+1997/98,Wimbledon FC (- 2004),32,26,26.4,1997
+1997/98,Leicester City,28,22,26.5,1997
+1997/98,Blackburn Rovers,31,24,26.7,1997
+1997/98,Coventry City,34,26,26.8,1997
+1997/98,FC Southampton,40,31,26.9,1997
+1997/98,Tottenham Hotspur,38,28,27.0,1997
+1997/98,Newcastle United,39,26,27.1,1997
+1997/98,Sheffield Wednesday,37,34,27.4,1997
+1997/98,FC Arsenal,30,26,27.6,1997
+1997/98,Chelsea FC,36,28,27.6,1997
+1997/98,Bolton Wanderers,33,29,27.8,1997
+1998/99,Leeds United,36,24,24.6,1998
+1998/99,FC Everton,37,34,24.7,1998
+1998/99,Blackburn Rovers,38,30,25.2,1998
+1998/99,Newcastle United,35,34,25.6,1998
+1998/99,FC Liverpool,35,25,25.6,1998
+1998/99,Aston Villa,35,24,25.8,1998
+1998/99,Derby County,32,30,25.9,1998
+1998/99,Manchester United,42,24,26.3,1998
+1998/99,West Ham United,38,29,26.3,1998
+1998/99,Nottingham Forest,39,33,26.4,1998
+1998/99,Tottenham Hotspur,34,29,26.6,1998
+1998/99,Wimbledon FC (- 2004),31,23,26.7,1998
+1998/99,Coventry City,41,28,26.9,1998
+1998/99,Leicester City,26,24,27.1,1998
+1998/99,Sheffield Wednesday,32,31,27.3,1998
+1998/99,FC Southampton,34,31,27.3,1998
+1998/99,Charlton Athletic,32,28,27.7,1998
+1998/99,FC Arsenal,40,26,27.7,1998
+1998/99,FC Middlesbrough,32,29,27.9,1998
+1998/99,Chelsea FC,32,26,28.1,1998
+1999/00,Leeds United,33,20,23.9,1999
+1999/00,FC Liverpool,33,23,24.3,1999
+1999/00,FC Watford,32,31,25.7,1999
+1999/00,Derby County,35,31,26.0,1999
+1999/00,Aston Villa,34,25,26.3,1999
+1999/00,Newcastle United,37,32,26.3,1999
+1999/00,Tottenham Hotspur,34,28,26.5,1999
+1999/00,Wimbledon FC (- 2004),34,26,26.6,1999
+1999/00,Coventry City,42,30,26.6,1999
+1999/00,AFC Sunderland,35,27,26.6,1999
+1999/00,Manchester United,41,29,26.7,1999
+1999/00,West Ham United,38,28,26.7,1999
+1999/00,FC Everton,39,28,26.9,1999
+1999/00,FC Southampton,38,30,27.2,1999
+1999/00,Sheffield Wednesday,32,25,27.8,1999
+1999/00,Leicester City,39,26,27.8,1999
+1999/00,FC Arsenal,36,30,28.0,1999
+1999/00,FC Middlesbrough,34,28,28.0,1999
+1999/00,Chelsea FC,33,27,28.6,1999
+1999/00,Bradford City,29,25,29.6,1999
+2000/01,Leeds United,33,26,24.4,2000
+2000/01,Derby County,39,32,25.1,2000
+2000/01,FC Liverpool,35,26,25.4,2000
+2000/01,Coventry City,38,28,25.5,2000
+2000/01,Newcastle United,37,29,25.6,2000
+2000/01,Ipswich Town,30,23,26.1,2000
+2000/01,Tottenham Hotspur,36,29,26.1,2000
+2000/01,Manchester City,40,30,26.1,2000
+2000/01,AFC Sunderland,38,28,26.2,2000
+2000/01,Charlton Athletic,33,27,26.5,2000
+2000/01,Manchester United,39,29,26.8,2000
+2000/01,FC Everton,35,31,26.8,2000
+2000/01,Leicester City,40,29,27.1,2000
+2000/01,FC Southampton,32,25,27.2,2000
+2000/01,West Ham United,48,34,27.5,2000
+2000/01,Aston Villa,32,23,27.7,2000
+2000/01,Chelsea FC,38,27,27.7,2000
+2000/01,FC Arsenal,37,26,27.9,2000
+2000/01,FC Middlesbrough,36,28,28.8,2000
+2000/01,Bradford City,42,31,30.0,2000
+2001/02,Newcastle United,35,23,25.4,2001
+2001/02,Derby County,41,34,25.5,2001
+2001/02,FC Liverpool,34,26,25.7,2001
+2001/02,Leeds United,27,21,25.8,2001
+2001/02,Charlton Athletic,33,25,26.3,2001
+2001/02,AFC Sunderland,33,26,26.4,2001
+2001/02,Leicester City,37,33,26.6,2001
+2001/02,Chelsea FC,36,25,26.7,2001
+2001/02,Ipswich Town,34,26,26.9,2001
+2001/02,West Ham United,33,28,27.0,2001
+2001/02,Manchester United,38,28,27.1,2001
+2001/02,Aston Villa,27,23,27.2,2001
+2001/02,FC Arsenal,37,25,27.3,2001
+2001/02,Blackburn Rovers,35,27,27.3,2001
+2001/02,FC Southampton,37,30,27.4,2001
+2001/02,FC Fulham,34,24,27.4,2001
+2001/02,FC Middlesbrough,39,35,27.8,2001
+2001/02,FC Everton,33,28,27.8,2001
+2001/02,Tottenham Hotspur,32,24,28.3,2001
+2001/02,Bolton Wanderers,43,30,28.5,2001
+2002/03,Newcastle United,34,26,24.4,2002
+2002/03,FC Liverpool,31,23,24.7,2002
+2002/03,Leeds United,36,29,25.4,2002
+2002/03,AFC Sunderland,42,34,25.8,2002
+2002/03,FC Middlesbrough,39,29,26.1,2002
+2002/03,Aston Villa,36,27,26.2,2002
+2002/03,Manchester United,34,26,26.8,2002
+2002/03,Charlton Athletic,31,26,26.8,2002
+2002/03,West Bromwich Albion,29,23,26.9,2002
+2002/03,FC Everton,33,28,27.0,2002
+2002/03,FC Southampton,33,26,27.1,2002
+2002/03,FC Fulham,32,27,27.2,2002
+2002/03,Chelsea FC,33,23,27.4,2002
+2002/03,FC Arsenal,36,28,27.4,2002
+2002/03,West Ham United,41,24,27.4,2002
+2002/03,Blackburn Rovers,36,28,27.5,2002
+2002/03,Birmingham City,36,33,27.7,2002
+2002/03,Manchester City,44,26,27.7,2002
+2002/03,Tottenham Hotspur,37,25,27.9,2002
+2002/03,Bolton Wanderers,38,27,28.5,2002
+2003/04,Leeds United,37,30,24.9,2003
+2003/04,Newcastle United,32,24,25.3,2003
+2003/04,Aston Villa,27,24,25.5,2003
+2003/04,Manchester United,35,22,25.5,2003
+2003/04,FC Liverpool,34,26,25.5,2003
+2003/04,Chelsea FC,32,27,25.7,2003
+2003/04,Tottenham Hotspur,34,28,25.9,2003
+2003/04,FC Middlesbrough,37,27,27.1,2003
+2003/04,FC Fulham,37,30,27.1,2003
+2003/04,FC Everton,31,27,27.1,2003
+2003/04,FC Arsenal,38,22,27.2,2003
+2003/04,Birmingham City,30,27,27.3,2003
+2003/04,Blackburn Rovers,35,28,27.8,2003
+2003/04,FC Southampton,35,29,27.8,2003
+2003/04,Manchester City,33,24,27.9,2003
+2003/04,Charlton Athletic,31,24,28.2,2003
+2003/04,FC Portsmouth,37,32,28.3,2003
+2003/04,Bolton Wanderers,34,24,28.6,2003
+2003/04,Wolverhampton Wanderers,36,27,29.3,2003
+2003/04,Leicester City,40,30,29.4,2003
+2004/05,Tottenham Hotspur,36,31,24.6,2004
+2004/05,Chelsea FC,31,30,25.0,2004
+2004/05,Aston Villa,26,22,25.1,2004
+2004/05,Newcastle United,32,28,25.6,2004
+2004/05,Crystal Palace,35,27,25.6,2004
+2004/05,FC Arsenal,37,25,25.7,2004
+2004/05,Manchester United,37,26,25.7,2004
+2004/05,FC Liverpool,38,29,25.9,2004
+2004/05,Manchester City,34,25,26.8,2004
+2004/05,West Bromwich Albion,32,27,27.0,2004
+2004/05,FC Portsmouth,37,26,27.1,2004
+2004/05,Blackburn Rovers,33,31,27.5,2004
+2004/05,Norwich City,27,25,27.5,2004
+2004/05,FC Fulham,34,24,27.6,2004
+2004/05,Charlton Athletic,26,22,27.7,2004
+2004/05,Birmingham City,38,27,27.8,2004
+2004/05,FC Middlesbrough,33,27,27.8,2004
+2004/05,FC Southampton,41,35,28.1,2004
+2004/05,FC Everton,26,21,28.2,2004
+2004/05,Bolton Wanderers,29,25,28.6,2004
+2005/06,AFC Sunderland,31,29,24.6,2005
+2005/06,Tottenham Hotspur,32,29,24.8,2005
+2005/06,Aston Villa,30,27,25.2,2005
+2005/06,Chelsea FC,30,25,25.7,2005
+2005/06,FC Arsenal,37,27,25.9,2005
+2005/06,Manchester United,34,26,26.0,2005
+2005/06,FC Liverpool,37,24,26.1,2005
+2005/06,West Ham United,33,28,26.2,2005
+2005/06,FC Middlesbrough,39,37,26.2,2005
+2005/06,West Bromwich Albion,32,29,26.4,2005
+2005/06,FC Portsmouth,36,34,26.5,2005
+2005/06,Newcastle United,32,26,26.6,2005
+2005/06,Manchester City,32,26,26.7,2005
+2005/06,Birmingham City,33,30,27.6,2005
+2005/06,Charlton Athletic,36,28,27.6,2005
+2005/06,FC Fulham,33,27,27.7,2005
+2005/06,Blackburn Rovers,27,25,27.7,2005
+2005/06,FC Everton,31,28,27.7,2005
+2005/06,Bolton Wanderers,32,24,27.9,2005
+2005/06,Wigan Athletic,30,25,28.1,2005
+2006/07,FC Arsenal,38,25,24.6,2006
+2006/07,Tottenham Hotspur,38,26,25.0,2006
+2006/07,FC Watford,43,33,25.0,2006
+2006/07,FC Middlesbrough,35,27,25.2,2006
+2006/07,Aston Villa,34,30,25.5,2006
+2006/07,West Ham United,35,30,25.6,2006
+2006/07,Sheffield United,43,32,25.6,2006
+2006/07,Newcastle United,35,29,25.9,2006
+2006/07,Manchester City,34,29,25.9,2006
+2006/07,FC Liverpool,38,29,25.9,2006
+2006/07,Chelsea FC,37,26,26.2,2006
+2006/07,FC Reading,38,23,26.5,2006
+2006/07,FC Everton,29,26,26.6,2006
+2006/07,Manchester United,38,25,27.1,2006
+2006/07,Charlton Athletic,37,29,27.2,2006
+2006/07,Wigan Athletic,37,30,27.5,2006
+2006/07,Blackburn Rovers,31,29,27.7,2006
+2006/07,Bolton Wanderers,34,23,27.9,2006
+2006/07,FC Fulham,37,25,27.9,2006
+2006/07,FC Portsmouth,32,25,28.0,2006
+2007/08,FC Arsenal,35,27,24.2,2007
+2007/08,Manchester City,36,28,24.5,2007
+2007/08,AFC Sunderland,45,31,24.8,2007
+2007/08,Birmingham City,33,28,25.1,2007
+2007/08,Tottenham Hotspur,38,30,25.1,2007
+2007/08,FC Middlesbrough,34,30,25.2,2007
+2007/08,Aston Villa,25,22,25.5,2007
+2007/08,FC Liverpool,41,25,26.0,2007
+2007/08,Manchester United,38,25,26.3,2007
+2007/08,West Ham United,36,28,26.3,2007
+2007/08,FC Everton,32,23,26.4,2007
+2007/08,Newcastle United,33,27,26.8,2007
+2007/08,Chelsea FC,39,27,26.9,2007
+2007/08,FC Reading,43,26,27.0,2007
+2007/08,Derby County,41,36,27.4,2007
+2007/08,Bolton Wanderers,42,31,27.4,2007
+2007/08,Wigan Athletic,35,27,27.8,2007
+2007/08,FC Fulham,43,33,27.9,2007
+2007/08,FC Portsmouth,33,28,27.9,2007
+2007/08,Blackburn Rovers,38,22,27.9,2007
+2008/09,FC Arsenal,41,28,23.7,2008
+2008/09,Manchester City,39,34,24.2,2008
+2008/09,FC Middlesbrough,33,28,24.2,2008
+2008/09,Tottenham Hotspur,43,29,24.6,2008
+2008/09,West Bromwich Albion,35,30,24.9,2008
+2008/09,FC Everton,32,25,25.8,2008
+2008/09,FC Liverpool,33,23,26.0,2008
+2008/09,AFC Sunderland,44,30,26.2,2008
+2008/09,West Ham United,40,30,26.4,2008
+2008/09,Newcastle United,38,29,26.5,2008
+2008/09,Wigan Athletic,35,29,26.7,2008
+2008/09,Aston Villa,35,21,26.8,2008
+2008/09,Manchester United,42,33,26.9,2008
+2008/09,Bolton Wanderers,33,24,27.0,2008
+2008/09,Chelsea FC,33,29,27.3,2008
+2008/09,Hull City,35,29,27.9,2008
+2008/09,Blackburn Rovers,36,28,28.1,2008
+2008/09,FC Portsmouth,36,29,28.3,2008
+2008/09,Stoke City,38,29,28.3,2008
+2008/09,FC Fulham,38,26,28.7,2008
+2009/10,FC Arsenal,45,30,24.9,2009
+2009/10,Tottenham Hotspur,41,30,25.5,2009
+2009/10,AFC Sunderland,38,28,25.5,2009
+2009/10,Wolverhampton Wanderers,37,29,25.5,2009
+2009/10,West Ham United,35,30,25.8,2009
+2009/10,FC Liverpool,34,30,25.9,2009
+2009/10,Wigan Athletic,36,27,26.1,2009
+2009/10,FC Everton,42,28,26.8,2009
+2009/10,Manchester City,40,31,26.8,2009
+2009/10,Birmingham City,36,25,26.9,2009
+2009/10,Bolton Wanderers,32,25,27.0,2009
+2009/10,Blackburn Rovers,35,28,27.1,2009
+2009/10,Manchester United,40,30,27.4,2009
+2009/10,FC Burnley,33,26,27.6,2009
+2009/10,Aston Villa,31,23,27.7,2009
+2009/10,Hull City,37,30,27.7,2009
+2009/10,FC Portsmouth,45,33,28.2,2009
+2009/10,Chelsea FC,36,30,28.2,2009
+2009/10,Stoke City,39,23,28.6,2009
+2009/10,FC Fulham,41,29,28.9,2009
+2010/11,FC Arsenal,34,27,24.7,2010
+2010/11,AFC Sunderland,39,31,25.1,2010
+2010/11,Wigan Athletic,35,25,25.2,2010
+2010/11,Manchester City,45,27,25.3,2010
+2010/11,Wolverhampton Wanderers,42,30,25.6,2010
+2010/11,Newcastle United,38,30,26.1,2010
+2010/11,West Bromwich Albion,37,28,26.4,2010
+2010/11,Tottenham Hotspur,38,28,26.4,2010
+2010/11,FC Liverpool,42,30,26.6,2010
+2010/11,FC Blackpool,45,30,26.8,2010
+2010/11,Aston Villa,39,32,27.1,2010
+2010/11,FC Everton,32,24,27.5,2010
+2010/11,Blackburn Rovers,37,29,27.5,2010
+2010/11,West Ham United,40,35,27.7,2010
+2010/11,Chelsea FC,33,24,27.7,2010
+2010/11,Stoke City,33,25,27.7,2010
+2010/11,Bolton Wanderers,34,24,27.8,2010
+2010/11,Manchester United,43,29,27.9,2010
+2010/11,Birmingham City,34,26,27.9,2010
+2010/11,FC Fulham,34,29,29.6,2010
+2011/12,FC Arsenal,45,32,25.2,2011
+2011/12,Blackburn Rovers,37,31,25.3,2011
+2011/12,AFC Sunderland,36,28,25.4,2011
+2011/12,Swansea City,34,25,25.5,2011
+2011/12,Newcastle United,37,26,25.5,2011
+2011/12,Manchester City,36,24,25.7,2011
+2011/12,Norwich City,29,27,25.8,2011
+2011/12,Wolverhampton Wanderers,37,32,25.8,2011
+2011/12,Wigan Athletic,30,23,26.1,2011
+2011/12,Manchester United,41,31,26.2,2011
+2011/12,FC Liverpool,31,26,26.3,2011
+2011/12,Aston Villa,37,27,26.7,2011
+2011/12,Tottenham Hotspur,50,29,27.2,2011
+2011/12,Bolton Wanderers,38,30,27.3,2011
+2011/12,Chelsea FC,32,29,27.4,2011
+2011/12,West Bromwich Albion,36,25,27.6,2011
+2011/12,FC Everton,36,30,27.7,2011
+2011/12,Stoke City,32,23,28.0,2011
+2011/12,Queens Park Rangers,48,35,28.7,2011
+2011/12,FC Fulham,36,28,29.1,2011
+2012/13,Aston Villa,33,28,24.1,2012
+2012/13,FC Southampton,40,25,25.1,2012
+2012/13,FC Arsenal,42,26,25.3,2012
+2012/13,FC Liverpool,41,28,25.7,2012
+2012/13,Newcastle United,39,32,25.8,2012
+2012/13,Tottenham Hotspur,41,28,26.1,2012
+2012/13,AFC Sunderland,37,29,26.1,2012
+2012/13,Chelsea FC,34,26,26.2,2012
+2012/13,Swansea City,33,25,26.5,2012
+2012/13,Manchester City,41,25,26.5,2012
+2012/13,Norwich City,36,27,26.6,2012
+2012/13,FC Reading,35,28,26.9,2012
+2012/13,Manchester United,41,25,27.1,2012
+2012/13,Wigan Athletic,37,28,27.2,2012
+2012/13,Stoke City,30,24,27.3,2012
+2012/13,West Bromwich Albion,32,25,27.5,2012
+2012/13,West Ham United,39,26,27.8,2012
+2012/13,Queens Park Rangers,38,30,28.0,2012
+2012/13,FC Everton,29,23,28.1,2012
+2012/13,FC Fulham,37,29,29.9,2012
+2013/14,Aston Villa,36,26,24.4,2013
+2013/14,FC Southampton,35,24,24.6,2013
+2013/14,Tottenham Hotspur,41,28,25.0,2013
+2013/14,Cardiff City,42,32,25.2,2013
+2013/14,FC Liverpool,36,25,25.3,2013
+2013/14,Swansea City,36,27,26.2,2013
+2013/14,Norwich City,32,25,26.2,2013
+2013/14,AFC Sunderland,39,31,26.2,2013
+2013/14,Newcastle United,37,26,26.2,2013
+2013/14,Manchester United,37,30,26.5,2013
+2013/14,FC Arsenal,41,27,26.5,2013
+2013/14,FC Everton,34,28,27.2,2013
+2013/14,Stoke City,33,26,27.3,2013
+2013/14,Chelsea FC,49,29,27.3,2013
+2013/14,Hull City,34,27,27.4,2013
+2013/14,Manchester City,27,23,27.5,2013
+2013/14,West Bromwich Albion,33,28,27.7,2013
+2013/14,Crystal Palace,45,31,27.7,2013
+2013/14,West Ham United,45,29,28.4,2013
+2013/14,FC Fulham,48,39,28.6,2013
+2014/15,Tottenham Hotspur,42,27,24.5,2014
+2014/15,FC Liverpool,35,25,25.3,2014
+2014/15,Newcastle United,42,27,25.6,2014
+2014/15,FC Southampton,37,29,25.6,2014
+2014/15,Manchester United,43,33,25.7,2014
+2014/15,FC Arsenal,42,29,25.9,2014
+2014/15,Aston Villa,38,27,26.2,2014
+2014/15,Swansea City,36,28,26.4,2014
+2014/15,Chelsea FC,38,25,27.0,2014
+2014/15,FC Burnley,30,24,27.0,2014
+2014/15,Hull City,35,29,27.0,2014
+2014/15,West Ham United,36,28,27.1,2014
+2014/15,AFC Sunderland,34,25,27.5,2014
+2014/15,Crystal Palace,42,30,27.5,2014
+2014/15,Leicester City,37,28,27.5,2014
+2014/15,Stoke City,30,25,27.5,2014
+2014/15,FC Everton,40,28,27.7,2014
+2014/15,West Bromwich Albion,34,26,27.9,2014
+2014/15,Queens Park Rangers,41,32,28.0,2014
+2014/15,Manchester City,34,24,28.7,2014
+2015/16,Tottenham Hotspur,31,24,24.2,2015
+2015/16,FC Liverpool,44,34,24.9,2015
+2015/16,Newcastle United,42,31,25.2,2015
+2015/16,Manchester United,44,33,25.4,2015
+2015/16,FC Southampton,35,26,26.0,2015
+2015/16,Aston Villa,44,29,26.2,2015
+2015/16,West Ham United,50,28,26.4,2015
+2015/16,Chelsea FC,40,28,26.4,2015
+2015/16,FC Everton,39,31,26.5,2015
+2015/16,FC Arsenal,41,25,26.6,2015
+2015/16,AFC Sunderland,42,31,27.2,2015
+2015/16,Leicester City,35,23,27.3,2015
+2015/16,Swansea City,36,27,27.5,2015
+2015/16,AFC Bournemouth,49,28,27.5,2015
+2015/16,Crystal Palace,38,30,27.5,2015
+2015/16,Stoke City,31,27,27.5,2015
+2015/16,Norwich City,41,28,27.7,2015
+2015/16,Manchester City,38,25,27.8,2015
+2015/16,FC Watford,39,25,28.1,2015
+2015/16,West Bromwich Albion,35,28,28.6,2015
+2016/17,Tottenham Hotspur,38,24,24.9,2016
+2016/17,FC Liverpool,38,23,25.6,2016
+2016/17,FC Southampton,36,26,25.8,2016
+2016/17,Manchester United,42,31,26.4,2016
+2016/17,AFC Bournemouth,41,27,26.4,2016
+2016/17,West Ham United,44,29,26.5,2016
+2016/17,AFC Sunderland,42,31,26.5,2016
+2016/17,FC Arsenal,42,29,26.6,2016
+2016/17,Chelsea FC,49,24,27.0,2016
+2016/17,FC Middlesbrough,35,27,27.1,2016
+2016/17,FC Everton,39,27,27.2,2016
+2016/17,Hull City,42,28,27.2,2016
+2016/17,Swansea City,37,27,27.3,2016
+2016/17,Leicester City,31,25,27.3,2016
+2016/17,FC Burnley,36,27,27.4,2016
+2016/17,Crystal Palace,45,31,27.8,2016
+2016/17,Manchester City,35,25,28.1,2016
+2016/17,FC Watford,46,33,28.4,2016
+2016/17,Stoke City,34,26,28.6,2016
+2016/17,West Bromwich Albion,30,23,28.9,2016
+2017/18,Newcastle United,37,27,25.5,2017
+2017/18,FC Liverpool,35,27,25.5,2017
+2017/18,Tottenham Hotspur,34,25,25.8,2017
+2017/18,Manchester City,32,25,26.0,2017
+2017/18,FC Southampton,29,26,26.0,2017
+2017/18,Huddersfield Town,35,25,26.2,2017
+2017/18,FC Everton,48,30,26.3,2017
+2017/18,Manchester United,35,27,26.3,2017
+2017/18,FC Arsenal,45,30,26.5,2017
+2017/18,Chelsea FC,46,26,26.6,2017
+2017/18,AFC Bournemouth,35,22,26.7,2017
+2017/18,Leicester City,34,27,26.8,2017
+2017/18,Swansea City,36,26,27.0,2017
+2017/18,Crystal Palace,41,28,27.0,2017
+2017/18,FC Burnley,30,24,27.3,2017
+2017/18,Brighton & Hove Albion,39,24,27.4,2017
+2017/18,Stoke City,35,30,27.5,2017
+2017/18,FC Watford,37,29,27.6,2017
+2017/18,West Ham United,41,27,27.6,2017
+2017/18,West Bromwich Albion,33,24,28.7,2017
+2018/19,Wolverhampton Wanderers,40,21,25.4,2018
+2018/19,FC Southampton,40,30,25.4,2018
+2018/19,FC Everton,40,23,25.5,2018
+2018/19,FC Fulham,33,28,25.8,2018
+2018/19,Leicester City,37,25,25.9,2018
+2018/19,Huddersfield Town,33,31,25.9,2018
+2018/19,Manchester United,36,28,26.0,2018
+2018/19,FC Liverpool,39,23,26.2,2018
+2018/19,AFC Bournemouth,37,28,26.2,2018
+2018/19,FC Arsenal,42,28,26.4,2018
+2018/19,Manchester City,47,21,26.4,2018
+2018/19,Tottenham Hotspur,34,28,26.6,2018
+2018/19,Newcastle United,37,24,26.6,2018
+2018/19,Chelsea FC,54,24,27.1,2018
+2018/19,Crystal Palace,36,26,27.2,2018
+2018/19,Brighton & Hove Albion,41,21,27.2,2018
+2018/19,Cardiff City,35,25,27.3,2018
+2018/19,West Ham United,37,26,27.7,2018
+2018/19,FC Watford,39,25,27.9,2018
+2018/19,FC Burnley,33,23,27.9,2018
+2019/20,Manchester United,43,29,24.7,2019
+2019/20,FC Arsenal,38,29,25.1,2019
+2019/20,AFC Bournemouth,39,27,25.1,2019
+2019/20,Chelsea FC,36,27,25.3,2019
+2019/20,FC Everton,35,24,25.5,2019
+2019/20,Aston Villa,38,28,25.6,2019
+2019/20,FC Southampton,36,25,25.7,2019
+2019/20,Norwich City,38,30,25.9,2019
+2019/20,Leicester City,32,24,25.9,2019
+2019/20,Wolverhampton Wanderers,44,21,25.9,2019
+2019/20,Tottenham Hotspur,36,29,26.2,2019
+2019/20,Brighton & Hove Albion,45,25,26.4,2019
+2019/20,Newcastle United,41,28,26.5,2019
+2019/20,FC Liverpool,56,24,26.6,2019
+2019/20,Manchester City,35,24,26.7,2019
+2019/20,Sheffield United,34,26,26.9,2019
+2019/20,West Ham United,38,29,27.4,2019
+2019/20,FC Burnley,35,22,28.1,2019
+2019/20,FC Watford,43,26,28.4,2019
+2019/20,Crystal Palace,33,25,29.0,2019
+2020/21,Aston Villa,53,24,25.0,2020
+2020/21,FC Fulham,38,28,25.2,2020
+2020/21,Manchester United,39,29,25.5,2020
+2020/21,Wolverhampton Wanderers,38,27,25.6,2020
+2020/21,FC Arsenal,42,29,25.7,2020
+2020/21,Brighton & Hove Albion,46,27,25.8,2020
+2020/21,Chelsea FC,39,27,25.8,2020
+2020/21,Leeds United,39,23,26.1,2020
+2020/21,FC Southampton,39,29,26.1,2020
+2020/21,Manchester City,36,24,26.1,2020
+2020/21,Leicester City,40,27,26.4,2020
+2020/21,FC Everton,44,29,26.4,2020
+2020/21,West Bromwich Albion,43,30,26.5,2020
+2020/21,Sheffield United,40,27,26.5,2020
+2020/21,FC Liverpool,43,28,26.8,2020
+2020/21,Tottenham Hotspur,41,24,27.0,2020
+2020/21,Newcastle United,33,27,27.1,2020
+2020/21,West Ham United,39,24,27.7,2020
+2020/21,FC Burnley,32,25,28.4,2020
+2020/21,Crystal Palace,36,24,28.8,2020
+2021/22,FC Arsenal,41,27,24.4,2021
+2021/22,FC Brentford,38,29,25.1,2021
+2021/22,Norwich City,45,28,25.6,2021
+2021/22,Leeds United,35,29,25.6,2021
+2021/22,FC Southampton,33,25,25.6,2021
+2021/22,Aston Villa,44,31,25.9,2021
+2021/22,Brighton & Hove Albion,43,26,26.0,2021
+2021/22,Tottenham Hotspur,45,25,26.1,2021
+2021/22,Leicester City,40,28,26.3,2021
+2021/22,FC Everton,42,33,26.5,2021
+2021/22,Wolverhampton Wanderers,38,26,26.5,2021
+2021/22,Crystal Palace,33,24,26.9,2021
+2021/22,Manchester United,43,29,27.0,2021
+2021/22,Manchester City,39,26,27.0,2021
+2021/22,Chelsea FC,44,26,27.1,2021
+2021/22,Newcastle United,34,29,27.4,2021
+2021/22,FC Liverpool,49,27,27.7,2021
+2021/22,FC Watford,47,30,28.0,2021
+2021/22,West Ham United,37,25,28.0,2021
+2021/22,FC Burnley,35,23,28.8,2021
+2022/23,FC Southampton,46,36,24.6,2022
+2022/23,FC Arsenal,42,26,24.6,2022
+2022/23,Leeds United,47,29,25.1,2022
+2022/23,Brighton & Hove Albion,42,29,25.7,2022
+2022/23,FC Brentford,36,25,25.7,2022
+2022/23,Chelsea FC,43,32,25.9,2022
+2022/23,AFC Bournemouth,47,31,26.2,2022
+2022/23,FC Everton,40,28,26.3,2022
+2022/23,Leicester City,38,28,26.3,2022
+2022/23,Wolverhampton Wanderers,43,32,26.5,2022
+2022/23,Nottingham Forest,50,33,26.5,2022
+2022/23,Crystal Palace,39,26,26.6,2022
+2022/23,Manchester United,48,26,26.6,2022
+2022/23,Manchester City,34,24,26.7,2022
+2022/23,Aston Villa,43,26,26.9,2022
+2022/23,Newcastle United,38,27,27.0,2022
+2022/23,Tottenham Hotspur,34,29,27.1,2022
+2022/23,FC Liverpool,39,28,27.2,2022
+2022/23,FC Fulham,47,29,27.9,2022
+2022/23,West Ham United,44,25,27.9,2022
+2023/24,Chelsea FC,56,32,23.7,2023
+2023/24,FC Burnley,39,31,24.8,2023
+2023/24,Tottenham Hotspur,41,29,25.0,2023
+2023/24,FC Arsenal,40,25,25.1,2023
+2023/24,Sheffield United,45,35,25.3,2023
+2023/24,AFC Bournemouth,42,30,25.4,2023
+2023/24,Brighton & Hove Albion,49,30,25.5,2023
+2023/24,FC Liverpool,45,30,25.6,2023
+2023/24,Nottingham Forest,46,33,25.7,2023
+2023/24,Manchester United,46,31,25.9,2023
+2023/24,FC Brentford,42,28,26.0,2023
+2023/24,Wolverhampton Wanderers,47,27,26.1,2023
+2023/24,Manchester City,36,25,26.3,2023
+2023/24,Aston Villa,45,31,26.4,2023
+2023/24,Crystal Palace,40,26,26.5,2023
+2023/24,FC Everton,34,26,26.7,2023
+2023/24,Luton Town,46,28,26.8,2023
+2023/24,Newcastle United,45,32,26.9,2023
+2023/24,West Ham United,36,26,28.2,2023
+2023/24,FC Fulham,35,25,28.3,2023
